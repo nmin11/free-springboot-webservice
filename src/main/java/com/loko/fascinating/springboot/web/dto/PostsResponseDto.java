@@ -16,4 +16,20 @@ public class PostsResponseDto {
         this.author = entity.getAuthor();
     }
 
+    public Long getId() {
+        return id;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public String getContent() {
+        return content;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
+
 }
