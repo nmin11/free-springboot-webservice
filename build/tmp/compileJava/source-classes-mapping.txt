@@ -1,29 +1,45 @@
-com/loko/fascinating/springboot/web/dto/PostsUpdateRequestDto.java
- com.loko.fascinating.springboot.web.dto.PostsUpdateRequestDto
- com.loko.fascinating.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
-com/loko/fascinating/springboot/web/dto/HelloResponseDto.java
- com.loko.fascinating.springboot.web.dto.HelloResponseDto
-com/loko/fascinating/springboot/web/HelloController.java
- com.loko.fascinating.springboot.web.HelloController
-com/loko/fascinating/springboot/Application.java
- com.loko.fascinating.springboot.Application
-com/loko/fascinating/springboot/web/dto/PostsResponseDto.java
- com.loko.fascinating.springboot.web.dto.PostsResponseDto
 com/loko/fascinating/springboot/domain/BaseTimeEntity.java
  com.loko.fascinating.springboot.domain.BaseTimeEntity
+com/loko/fascinating/springboot/config/auth/SecurityConfig.java
+ com.loko.fascinating.springboot.config.auth.SecurityConfig
+com/loko/fascinating/springboot/service/posts/PostsService.java
+ com.loko.fascinating.springboot.service.posts.PostsService
+com/loko/fascinating/springboot/domain/user/User.java
+ com.loko.fascinating.springboot.domain.user.User
+ com.loko.fascinating.springboot.domain.user.User$UserBuilder
+com/loko/fascinating/springboot/config/auth/dto/OAuthAttributes.java
+ com.loko.fascinating.springboot.config.auth.dto.OAuthAttributes
+ com.loko.fascinating.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+com/loko/fascinating/springboot/domain/posts/PostsRepository.java
+ com.loko.fascinating.springboot.domain.posts.PostsRepository
+com/loko/fascinating/springboot/web/IndexController.java
+ com.loko.fascinating.springboot.web.IndexController
+com/loko/fascinating/springboot/config/auth/dto/SessionUser.java
+ com.loko.fascinating.springboot.config.auth.dto.SessionUser
+com/loko/fascinating/springboot/web/dto/HelloResponseDto.java
+ com.loko.fascinating.springboot.web.dto.HelloResponseDto
+com/loko/fascinating/springboot/web/dto/PostsResponseDto.java
+ com.loko.fascinating.springboot.web.dto.PostsResponseDto
+com/loko/fascinating/springboot/domain/user/Role.java
+ com.loko.fascinating.springboot.domain.user.Role
+com/loko/fascinating/springboot/web/PostsApiController.java
+ com.loko.fascinating.springboot.web.PostsApiController
+com/loko/fascinating/springboot/config/auth/CustomOAuth2UserService.java
+ com.loko.fascinating.springboot.config.auth.CustomOAuth2UserService
 com/loko/fascinating/springboot/web/dto/PostsSaveRequestDto.java
  com.loko.fascinating.springboot.web.dto.PostsSaveRequestDto
  com.loko.fascinating.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
+com/loko/fascinating/springboot/domain/user/UserRepository.java
+ com.loko.fascinating.springboot.domain.user.UserRepository
+com/loko/fascinating/springboot/web/dto/PostsListResponseDto.java
+ com.loko.fascinating.springboot.web.dto.PostsListResponseDto
+com/loko/fascinating/springboot/web/dto/PostsUpdateRequestDto.java
+ com.loko.fascinating.springboot.web.dto.PostsUpdateRequestDto
+ com.loko.fascinating.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+com/loko/fascinating/springboot/Application.java
+ com.loko.fascinating.springboot.Application
+com/loko/fascinating/springboot/web/HelloController.java
+ com.loko.fascinating.springboot.web.HelloController
 com/loko/fascinating/springboot/domain/posts/Posts.java
  com.loko.fascinating.springboot.domain.posts.Posts
  com.loko.fascinating.springboot.domain.posts.Posts$PostsBuilder
-com/loko/fascinating/springboot/web/dto/PostsListResponseDto.java
- com.loko.fascinating.springboot.web.dto.PostsListResponseDto
-com/loko/fascinating/springboot/domain/posts/PostsRepository.java
- com.loko.fascinating.springboot.domain.posts.PostsRepository
-com/loko/fascinating/springboot/web/PostsApiController.java
- com.loko.fascinating.springboot.web.PostsApiController
-com/loko/fascinating/springboot/service/posts/PostsService.java
- com.loko.fascinating.springboot.service.posts.PostsService
-com/loko/fascinating/springboot/web/IndexController.java
- com.loko.fascinating.springboot.web.IndexController
