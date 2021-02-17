@@ -1,10 +1,10 @@
-com/loko/fascinating/springboot/web/HelloControllerTest.java
- com.loko.fascinating.springboot.web.HelloControllerTest
-com/loko/fascinating/springboot/web/dto/HelloResponseDtoTest.java
- com.loko.fascinating.springboot.web.dto.HelloResponseDtoTest
 com/loko/fascinating/springboot/web/PostsApiControllerTest.java
  com.loko.fascinating.springboot.web.PostsApiControllerTest
-com/loko/fascinating/springboot/domain/posts/PostsRepositoryTest.java
- com.loko.fascinating.springboot.domain.posts.PostsRepositoryTest
+com/loko/fascinating/springboot/web/dto/HelloResponseDtoTest.java
+ com.loko.fascinating.springboot.web.dto.HelloResponseDtoTest
 com/loko/fascinating/springboot/web/IndexControllerTest.java
  com.loko.fascinating.springboot.web.IndexControllerTest
+com/loko/fascinating/springboot/domain/posts/PostsRepositoryTest.java
+ com.loko.fascinating.springboot.domain.posts.PostsRepositoryTest
+com/loko/fascinating/springboot/web/HelloControllerTest.java
+ com.loko.fascinating.springboot.web.HelloControllerTest
